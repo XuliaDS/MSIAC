@@ -2,7 +2,7 @@ MSIAC: A Julia package for SIAC filtering
 ========
 _________________________________________________
 	Version: 1.0
-	For bugs / issues, email: julia.docampo@bsc.es
+	For bugs / issues, email: xulia.docampo@pm.me
 _________________________________________________
 
 
