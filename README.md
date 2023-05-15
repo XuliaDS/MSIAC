@@ -101,4 +101,4 @@ _________________________________________________
          julia> include("myfile.jl")   #1st time: slower
          julia> include("myfile.jl")   #2nd time: faster
       ```
-   2. ****Checkout the [tutorials](https://gitlab.com/siac_magic/siac-magic-tools/-/tree/main/MSIAC/tutorials) folder to see examples of how to run the MSIAC tool****
+   2. ****Checkout the [tutorials](https://github.com/XuliaDS/MSIAC/tutorials) folder to see examples of how to run the MSIAC tool****
