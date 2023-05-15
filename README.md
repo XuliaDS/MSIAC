@@ -88,7 +88,7 @@ _________________________________________________
 		@everywhere include(ENV["MSIAC"]*"/src/MSIAC_HPC.jl") 	
 	
 	4. Run filter_data_hpc(args...) 
-	5. This [file](https://gitlab.com/siac_magic/siac-magic-tools/-/tree/main/MSIAC/tutorials/msiac_hpc.jl) is an example of a filter + distributed 
+	5. This [file](https://github.com/XuliaDS/tree/main//MSIAC/tutorials/msiac_hpc.jl) is an example of a filter + distributed 
 
 # A quick guide on using the REPL
    1. ****Running a script****
@@ -101,4 +101,4 @@ _________________________________________________
          julia> include("myfile.jl")   #1st time: slower
          julia> include("myfile.jl")   #2nd time: faster
       ```
-   2. ****Checkout the [tutorials](https://github.com/XuliaDS/MSIAC/tutorials) folder to see examples of how to run the MSIAC tool****
+   2. ****Checkout the [tutorials](https://github.com/XuliaDS/tree/main/MSIAC/tutorials) folder to see examples of how to run the MSIAC tool****
